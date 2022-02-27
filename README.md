@@ -43,6 +43,16 @@ The three cloud computing deployment models are cloud-based, on-premises, and hy
 ![image](https://user-images.githubusercontent.com/60442877/155901908-1638314f-1541-40fb-9d80-3e5b16d77d47.png)
 ![image](https://user-images.githubusercontent.com/60442877/155901956-d01d1919-2149-4cda-9b97-317f6025bfe4.png)
 
+### Types of Cloud Computing
+
+There are three main models for cloud computing. Each model represents a different part of the cloud computing stack.
+
+1. Infrastructure as a Service (IaaS)
+2. Platform as a Service (PaaS)
+3. Software as a Service (SaaS)
+
+![image](https://user-images.githubusercontent.com/60442877/155902460-f3f9891d-8eea-47a3-b956-4f99bda33dde.png)
+
 
 
 
