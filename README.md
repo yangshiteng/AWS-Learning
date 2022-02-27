@@ -53,6 +53,13 @@ There are three main models for cloud computing. Each model represents a differe
 
 ![image](https://user-images.githubusercontent.com/60442877/155902460-f3f9891d-8eea-47a3-b956-4f99bda33dde.png)
 
+### Amazon Elastic Compute Cloud (Amazon EC2)
 
+- Multitenancy: sharing underlying hardware between virtual machines 
+- provides secure, resizable compute capacity in the cloud as Amazon EC2 instances. 
+![image](https://user-images.githubusercontent.com/60442877/155903086-8251e4e2-5692-4947-b5ca-7b7cd684b65f.png)
 
+### How Amazon EC2 works
+
+![image](https://user-images.githubusercontent.com/60442877/155903103-2bd6831f-e736-40de-a903-f63967efb884.png)
 
