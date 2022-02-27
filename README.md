@@ -1,5 +1,7 @@
 # Coursera - AWS Cloud Practitioner Essentials
 
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. If you are a developer new to AWS, this is where you can learn to build applications on AWS. Choose the programming language and tools familiar to you, learn about core concepts applicable across any service you end up using, and then go build!
+
 ## Week 1
 
 - Amazon Elastic Compute Cloud (Amazon EC2) (弹性云计算)
@@ -8,7 +10,13 @@
 
 ### What is Cloud Computing?
 
-Cloud Computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing
+Cloud Computing is the on-demand delivery of IT resources (按需求交付IT资源) over the internet with pay-as-you-go pricing
+
+Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS).
+
+### Who is using cloud computing?
+
+Organizations of every type, size, and industry are using the cloud for a wide variety of use cases, such as data backup, disaster recovery, email, virtual desktops, software development and testing, big data analytics, and customer-facing web applications. For example, healthcare companies are using the cloud to develop more personalized treatments for patients. Financial services companies are using the cloud to power real-time fraud detection and prevention. And video game makers are using the cloud to deliver online games to millions of players around the world.
 
 ### What is a Client-Server Model?
 
