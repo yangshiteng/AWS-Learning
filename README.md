@@ -63,3 +63,42 @@ There are three main models for cloud computing. Each model represents a differe
 
 ![image](https://user-images.githubusercontent.com/60442877/155903103-2bd6831f-e736-40de-a903-f63967efb884.png)
 
+### Amazon EC2 instance types
+
+When selecting an instance type, consider the specific needs of your workloads and applications. This might include requirements for compute, memory, or storage capabilities.
+
+![image](https://user-images.githubusercontent.com/60442877/155904924-ddd86719-890e-4cbf-bf1b-b7f6295024ce.png)
+![image](https://user-images.githubusercontent.com/60442877/155905028-f09056a2-1b95-4057-9016-9dc649a89789.png)
+![image](https://user-images.githubusercontent.com/60442877/155905101-2536c597-4662-4dab-a01e-411d6251c183.png)
+![image](https://user-images.githubusercontent.com/60442877/155905147-53a9afad-3f86-4b78-b838-94cfa0bef3a0.png)
+![image](https://user-images.githubusercontent.com/60442877/155905270-86a8670f-df2a-4a26-9a72-fec430ac9024.png)
+
+### Amazon EC2 Pricing
+
+With Amazon EC2, you pay only for the compute time that you use. Amazon EC2 offers a variety of pricing options for different use cases. For example, if your use case can withstand interruptions, you can save with Spot Instances. You can also save by committing early and locking in a minimum level of use with Reserved Instances.
+
+![image](https://user-images.githubusercontent.com/60442877/155905603-dcd63af8-456f-4b00-bdeb-458fc6aaa43f.png)
+![image](https://user-images.githubusercontent.com/60442877/155905785-4f5fde4a-ed00-4228-9ec8-66935348669b.png)
+![image](https://user-images.githubusercontent.com/60442877/155905835-830d4dfa-7d19-4163-b0cf-92cc1f653040.png)
+![image](https://user-images.githubusercontent.com/60442877/155906285-c6732dae-2a36-4333-bb1d-82a0c93c9625.png)
+
+
+### Scaling Amazon EC2
+
+![image](https://user-images.githubusercontent.com/60442877/155906665-14cf7cc3-b945-43d4-b42b-d27c74039e2b.png)
+
+Amazon EC2 Auto Scaling: If you’ve tried to access a website that wouldn’t load and frequently timed out, the website might have received more requests than it was able to handle. This situation is similar to waiting in a long line at a coffee shop, when there is only one barista present to take orders from customers.
+
+Amazon EC2 Auto Scaling enables you to automatically add or remove Amazon EC2 instances in response to changing application demand. By automatically scaling your instances in and out as needed, you are able to maintain a greater sense of application availability.
+
+![image](https://user-images.githubusercontent.com/60442877/155906819-50d47ac7-66da-4dae-b3de-89fda4d3f852.png)
+
+In the cloud, computing power is a programmatic resource, so you can take a more flexible approach to the issue of scaling. By adding Amazon EC2 Auto Scaling to an application, you can add new instances to the application when necessary and terminate them when no longer needed.
+
+Suppose that you are preparing to launch an application on Amazon EC2 instances. When configuring the size of your Auto Scaling group, you might set the minimum number of Amazon EC2 instances at one. This means that at all times, there must be at least one Amazon EC2 instance running.
+
+![image](https://user-images.githubusercontent.com/60442877/155907210-fac4308b-b0c4-4210-81c7-2d37001fc446.png)
+
+![image](https://user-images.githubusercontent.com/60442877/155907251-9b2c0ba4-8797-4a1c-a857-1360568535d4.png)
+
+
