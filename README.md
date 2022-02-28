@@ -194,5 +194,9 @@ While the barista is preparing the drink, the cashier is able to continue taking
 ![image](https://user-images.githubusercontent.com/60442877/155920636-098dd0e6-ad8a-4d90-847c-9f047ce73974.png)
 
 
+### AWS Computer Services
 
+https://aws.amazon.com/products/compute/
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html
 
+![image](https://user-images.githubusercontent.com/60442877/155921580-b59f13f5-3c50-4422-a85e-e2d648179119.png)
