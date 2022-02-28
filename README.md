@@ -182,6 +182,16 @@ The barista then removes the completed order from the queue.
 
 While the barista is preparing the drink, the cashier is able to continue taking new orders and add them to the queue.
 
+### Serverless Computing
+
+- An AWS service for serverless computing is AWS Lambda
+- AWS Lambda is a service that lets you run code without needing to provision or manage servers. 
+
+![image](https://user-images.githubusercontent.com/60442877/155920501-609e8d59-4f9f-47c5-85e4-ccb41c7c7905.png)
+![image](https://user-images.githubusercontent.com/60442877/155920538-d7cec4b5-f385-46ad-894f-f60f3b3b8ef9.png)
+![image](https://user-images.githubusercontent.com/60442877/155920594-bcc39b38-ca24-4353-837e-54ad9fbd4d3e.png)
+![image](https://user-images.githubusercontent.com/60442877/155920605-cdf832af-f958-45a2-84df-ef18802b9431.png)
+![image](https://user-images.githubusercontent.com/60442877/155920636-098dd0e6-ad8a-4d90-847c-9f047ce73974.png)
 
 
 
