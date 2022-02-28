@@ -101,4 +101,19 @@ Suppose that you are preparing to launch an application on Amazon EC2 instances.
 
 ![image](https://user-images.githubusercontent.com/60442877/155907251-9b2c0ba4-8797-4a1c-a857-1360568535d4.png)
 
+### Elastic Load Balancer (弹性负载均衡器)
+
+Elastic Load Balancing is the AWS service that automatically distributes incoming application traffic across multiple resources, such as Amazon EC2 instances. 
+
+A load balancer acts as a single point of contact for all incoming web traffic to your Auto Scaling group. This means that as you add or remove Amazon EC2 instances in response to the amount of incoming traffic, these requests route to the load balancer first. Then, the requests spread across multiple resources that will handle them. For example, if you have multiple Amazon EC2 instances, Elastic Load Balancing distributes the workload across the multiple instances so that no single instance has to carry the bulk of it. 
+
+Although Elastic Load Balancing and Amazon EC2 Auto Scaling are separate services, they work together to help ensure that applications running in Amazon EC2 can provide high performance and availability. 
+
+![image](https://user-images.githubusercontent.com/60442877/155910646-b9fde18b-c1e9-4111-bed9-7d7e58037768.png)
+![image](https://user-images.githubusercontent.com/60442877/155910655-3585bac6-6f25-4abb-8405-e464df54e1af.png)
+![image](https://user-images.githubusercontent.com/60442877/155910670-a1342f9a-5220-4431-bb7a-b2172804e4cd.png)
+
+
+
+
 
